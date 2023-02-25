@@ -1,5 +1,5 @@
 # Countdown Timer Project
-In this project, I created a giveaway with a countdown timer that counting down the remaining time of the giveaway with an interval and indicates the user when the giveaway ends.
+In this project I created a giveaway with a countdown timer that counting down the remaining time of the giveaway with an interval and indicates the user when the giveaway ends.
 I created it using JavaScript and CSS
 
 
